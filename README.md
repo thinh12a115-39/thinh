@@ -4,7 +4,7 @@
 </head>
 <body>
  Gioi thieu
- <img scr="images/ChatGPT Image Nov 19, 2025, 10_31_16 AM" width="180" height="270">
+ <img scr="ChatGPT Image Nov 19, 2025, 10_31_16 AM.png" width="180" height="270">
  nickname: Thịnh Kent
  sở thích: billard
  sở trường: billard
