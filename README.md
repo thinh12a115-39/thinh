@@ -4,7 +4,7 @@
 </head>
 <body>
  Gioi thieu
- <img scr="images/ anhdaidien.png" width="180" height="270">
+ <img scr="images/anhdaidien.png" width="180" height="270">
  nickname: Thịnh Kent
  sở thích: billard
  sở trường: billard
