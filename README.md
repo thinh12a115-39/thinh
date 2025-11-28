@@ -6,7 +6,6 @@
     <h1 style="color: red; text-align: center;">
             GIỚI THIỆU BẢN THÂN
     </h1>
-     
      <table>
         <tr>
            <td>
