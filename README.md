@@ -10,7 +10,7 @@
      <table>
         <tr>
            <td>
-             <img src="image/photo.jpg" width="180" height="270"
+             <img src="images/anhdaidien.png" width="180" height="270"
            </td>
            <td>
               <h2 style = "color: tomato;">     Nickname </h2>
