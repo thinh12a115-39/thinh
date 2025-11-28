@@ -13,15 +13,15 @@
            </td>
            <td>
               <h2 style = "color: tomato;">     Nickname </h2>
-              Nom
+            Thịnh Kent
               <h2 style = "color: tomato;">     Sở thích</h2>
-              Nấu ăn
+              đánh billard
               <h2 style = "color: tomato;">     Sở trường</h2>
-              Nấu ăn
+              billard
               <h2 style = "color: tomato;">     Ước mơ</h2>
-              Có công việc ổn định
+              kiếm thật nhiều money
               <h2 style = "color: tomato;">     Dự định tương lai trong 5 năm tới </h2>
-              Tốt nghiệp đại học và có công việc ổn định
+              đậu đại học mơ ước và có công việc ổn định
            </td>
         </tr>
      </table>      
