@@ -1,6 +1,10 @@
 <htnl>
   <head>
   <meta charsets="utf-8">
+    <style>
+h1 { color: red; text-align: center;}
+h2 {color: magenta;}
+</style>
   </head>
   <body>
     <h1 style="color: red; text-align: center;">
